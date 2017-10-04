@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Языковые настройки
+</string>
+    <string name="main_activity_title">Главный</string>
+    <string name="step1_activity_title">Шаг 1</string>
+    <string name="greeting">Привет! Меня зовут Чайтанья!</string>
+    <string name="step_2">
+Шаг 2. Текущий язык %1$s</string>
+    <string name="go_to_next">Перейти к следующему</string>
+    <string name="change_app_language_to_russian">Изменить язык приложения на русский Russian
+</string>
+    <string name="change_app_language_to_english">Изменить язык приложения на English</string>
+    <string name="change_app_language_to_arabic">
+Изменить язык приложения на Arabic</string>
+    <string name="go_to_language_selection">Перейти к выбору языка</string>
+    <string name="change_language">Изменить язык
+</string>
+</resources>

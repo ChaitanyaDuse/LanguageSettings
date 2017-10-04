@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LanguageSettings</string>
+    <string name="greeting">Hi!,My name is Chaitanya!</string>
+    <string name="step_2">Step 2 , Current language is %1$s</string>
+    <string name="go_to_next">Go to Next</string>
+    <string name="change_app_language_to_russian">Change app language to Russian</string>
+    <string name="change_app_language_to_english">Change App Language to English</string>
+    <string name="change_app_language_to_arabic">Change App Language to Arabic</string>
+    <string name="main_activity_title">Main</string>
+    <string name="step1_activity_title">Step 1</string>
+    <string name="english">English</string>
+    <string name="russian">Russian</string>
+    <string name="go_to_language_selection">Go to Language Selection</string>
+    <string name="change_language">Change Language</string>
+</resources>

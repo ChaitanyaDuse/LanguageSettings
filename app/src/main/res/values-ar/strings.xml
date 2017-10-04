@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">اعدادات اللغة
+</string>
+    <string name="main_activity_title">الأساسية</string>
+    <string name="step1_activity_title">الخطوة 1
+</string>
+    <string name="greeting">مرحبا!، اسمي تشايتانيا!</string>
+    <string name="step_2">الخطوة 2، اللغة الحالية هي %1$s</string>
+    <string name="go_to_next">انتقل إلى التالي
+</string>
+    <string name="change_app_language_to_russian">
+ Russian تغيير لغة التطبيق إلى</string>
+    <string name="change_app_language_to_english">English تغيير لغة التطبيق إلى</string>
+    <string name="change_app_language_to_arabic">Arabic تغيير لغة التطبيق إلى اللغة العربية
+</string>
+    <string name="go_to_language_selection">انتقل إلى اختيار اللغة</string>
+    <string name="change_language">غير اللغة</string>
+</resources>
